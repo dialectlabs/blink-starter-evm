@@ -1,0 +1,2 @@
+# Environment variables for Wagmi + ConnectKit
+# Wagmi uses built-in RPC providers, no special configuration needed
