@@ -1,6 +1,3 @@
-> [!WARNING]
-> Dialect is sunsetting its Alerts, Blockchain Links, Markets and Positions products. If you are using these products you will need to find alternative solutions.
-
 # EVM Blink Starter Template
 
 A template repository for creating [Blinks](https://docs.dialect.to/blinks/) on EVM-compatible blockchains. This template supports multiple chains and wallet providers through a two-dimensional template system.
